@@ -7,7 +7,7 @@ Now I`m student [**Hexlet**](https://ru.hexlet.io/my), but soon I will be doing 
 [![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=for-the-badge&logo=JavaScript)]
 [![React](https://img.shields.io/badge/React-30363d?style=for-the-badge&logo=React)]
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)]
-[![CSS3](https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=CSS3)]
+[![CSS3](https://img.icons8.com/dusk/344/css3.png)]
 
 
 
