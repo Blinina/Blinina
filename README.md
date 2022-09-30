@@ -2,7 +2,7 @@
 ### My name is Anastasia Blinova, I`m frontend developer.
 Now I`m student [**Hexlet**](https://ru.hexlet.io/my), but soon I will be doing amazing IT-projects!
 ![1625701701_13-kartinkin-com-p-sakura-piksel-art-art-krasivo-14](https://user-images.githubusercontent.com/102224610/193243433-730d9454-8287-4330-a6e5-7ca461773acb.png)
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/102224610/193243433-730d9454-8287-4330-a6e5-7ca461773acb.png" alt="" width="40" height="40"/>
 
 
 #### Languages and tools: ####
