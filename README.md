@@ -9,5 +9,5 @@
 
 
 #### Follow me: ####
-[![Telegram](https://img.shields.io/badge/-GMAIL-ff69b4)](https://t.me/blinina)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-ff69b4)](https://t.me/blinina)
 [![Gmail](https://img.shields.io/badge/-GMAIL-ff69b4)](mailto:anastasia.paancake@gmail.com)
