@@ -1,4 +1,5 @@
- <div    vertical-align="middle"><h1 text-align="center">Hi! Nice to see you!</h1></div><img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" width="100" height="90"/>
+ <div         justify-content="space-between"
+ display="table-cell" vertical-align="middle"><h1 text-align="center">Hi! Nice to see you!</h1><img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" width="100" height="90"/></div>
 ### I`m Anastasia Blinova, a junior frontend developer.
 
 I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
