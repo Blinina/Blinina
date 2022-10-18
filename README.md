@@ -1,10 +1,9 @@
-
-# Hi! Nice to see you!<img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" width="100" height="75"/>
+# Nice to see you!<img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" height="65"/>
 ### I`m Anastasia Blinova, a junior frontend developer.
 
 I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
 
-✨ I am currently studying at [Hexlet](https://github.com/Hexlet).
+✨ I am currently studying at [Hexlet](https://github.com/Hexlet)
 
 ✨ Open to work, remote or Moscow.
 
@@ -20,6 +19,6 @@ I used to implement social and volunteer projects, but now I want to do large-sc
 [![Gmail](https://img.shields.io/badge/-GMAIL-ff69b4)](mailto:anastasia.paancake@gmail.com)
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=blinina&title_color=ff915c&text_color=ff69b4&icon_color=8250df&border_color=30363D&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true">
+<img src="https://github-readme-stats.vercel.app/api?username=blinina&title_color=ff915c&text_color=ff69b4&icon_color=8250df&border_color=30363D&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"  height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinina&layout=compact&&title_color=ff915c&text_color=f90a9a&icon_color=8250df&border_color=30363D&CSS_color=ff69b4" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinina&layout=compact&&title_color=ff915c&text_color=f90a9a&icon_color=8250df&border_color=30363D&CSS_color=ff69b4">
