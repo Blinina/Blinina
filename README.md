@@ -1,5 +1,5 @@
 
-<h1>Hi! Nice to see you!</h1><img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" width="100" height="85"/>
+# Hi! Nice to see you!<img src="https://user-images.githubusercontent.com/102224610/196392824-3d9f7cfb-9d8a-4e4d-a1ba-10bdca825d98.gif" alt="" width="100" height="75"/>
 ### I`m Anastasia Blinova, a junior frontend developer.
 
 I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
@@ -18,3 +18,8 @@ I used to implement social and volunteer projects, but now I want to do large-sc
 #### Follow me: ####
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-ff69b4)](https://t.me/blinina)
 [![Gmail](https://img.shields.io/badge/-GMAIL-ff69b4)](mailto:anastasia.paancake@gmail.com)
+<hr>
+
+<img src="https://github-readme-stats.vercel.app/api?username=blinina&title_color=ff915c&text_color=ff69b4&icon_color=8250df&border_color=30363D&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinina&layout=compact&&title_color=ff915c&text_color=f90a9a&icon_color=8250df&border_color=30363D&CSS_color=ff69b4">
