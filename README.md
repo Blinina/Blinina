@@ -15,5 +15,4 @@ I used to implement social and volunteer projects, but now I want to do large-sc
 #### Follow me: ####
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-ff69b4)](https://t.me/blinina)
 [![Gmail](https://img.shields.io/badge/-GMAIL-ff69b4)](mailto:anastasia.paancake@gmail.com)
-![cake](https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif)
-<img src="https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif" alt="cake" width="90" height="90"/>
+![cake](https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif  width="40")
