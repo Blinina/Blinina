@@ -1,7 +1,10 @@
 ## Hi! Nice to see you.🌸
-### I`m Anastasia Blinova, junior frontend developer.
+### I`m Anastasia Blinova, a junior frontend developer.
 
-Currently I`m student [**Hexlet**](https://ru.hexlet.io/my), but soon I will be doing amazing IT-projects!
+I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
+✨I am currently studying at [Hexlet](https://github.com/Hexlet).
+✨Open to work, remote or Moscow. 
+✨[**My CV**](https://cv.hexlet.io/resumes/1304)
 
 
 
@@ -12,3 +15,5 @@ Currently I`m student [**Hexlet**](https://ru.hexlet.io/my), but soon I will be 
 #### Follow me: ####
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-ff69b4)](https://t.me/blinina)
 [![Gmail](https://img.shields.io/badge/-GMAIL-ff69b4)](mailto:anastasia.paancake@gmail.com)
+
+![cake](https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif)
