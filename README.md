@@ -3,11 +3,11 @@
 
 I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
 
-✨ I am currently studying at [Hexlet](https://github.com/Hexlet)
+🌸 I am currently studying at [Hexlet](https://github.com/Hexlet)
 
-✨ Open to work, remote or Moscow.
+🌸 Open to work, remote or Moscow.
 
-✨ [**My CV**](https://cv.hexlet.io/resumes/1304)
+🌸 [**My CV**](https://cv.hexlet.io/resumes/1304)
 
 
 #### Languages and tools: ####
