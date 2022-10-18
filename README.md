@@ -1,4 +1,4 @@
-## Hi! Nice to see you.🌸<img src="https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif" alt="bootstrap" width="40" height="40"/>
+# Hi! Nice to see you.🌸<img src="https://user-images.githubusercontent.com/102224610/196383961-a1dbbeb3-ec32-4260-87cc-9d2538c1bc75.gif" alt="bootstrap" width="60" height="60"/>
 ### I`m Anastasia Blinova, a junior frontend developer.
 
 I used to implement social and volunteer projects, but now I want to do large-scale IT projects! :)
