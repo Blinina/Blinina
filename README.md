@@ -21,3 +21,6 @@ In the past, I have managed and implemented social and business projects, but no
 <a href="https://t.me/blinina" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102224610/203030399-a3aad574-c978-40c7-b3b7-c94560eb9fee.png" alt="https://t.me/blinina" height="30" width="30"/></a>
 <a href="mailto:anastasia.paancake@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102224610/203031731-6e7c9de7-b6d6-47c9-beaa-785bde358bf5.png" alt="https://t.me/blinina" height="32" width="32"/></a>
 </p>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=blinina&title_color=FF7518&text_color=ff69b4&icon_color=8250df&border_color=30363D&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"   height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinina&layout=compact&&title_color=FF7518&text_color=f90a9a&icon_color=8250df&border_color=30363D&CSS_color=ff69b4"  height="170">
