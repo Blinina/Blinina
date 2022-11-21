@@ -3,11 +3,11 @@
 
 In the past, I have managed and implemented social and business projects, but now I want to do large-scale IT projects! :)
 
-🌸 I  have completed the front-end developer course at [**Hexlet**](https://github.com/Hexlet).
+✨ I  have completed the front-end developer course at [**Hexlet**](https://github.com/Hexlet).
 
-🌸 Open to work, remote or Moscow.
+✨ Open to work, remote or Moscow.
 
-🌸 [**My CV**](https://cv.hexlet.io/resumes/1304)
+✨ [**My CV**](https://cv.hexlet.io/resumes/1304)
 
 
 ### Languages and tools: ###
@@ -18,5 +18,6 @@ In the past, I have managed and implemented social and business projects, but no
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/blinina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blinina/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100070015563001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070015563001" height="30" width="40" /></a>
-<a href="https://t.me/blinina" target="blank"><img align="center" src="![download](https://user-images.githubusercontent.com/102224610/203030399-a3aad574-c978-40c7-b3b7-c94560eb9fee.png)" alt="https://t.me/blinina" height="30" width="40" /></a>
+<a href="https://t.me/blinina" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102224610/203030399-a3aad574-c978-40c7-b3b7-c94560eb9fee.png" alt="https://t.me/blinina" height="30" width="30"/></a>
+<a href="mailto:anastasia.paancake@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102224610/203031731-6e7c9de7-b6d6-47c9-beaa-785bde358bf5.png" alt="https://t.me/blinina" height="32" width="32"/></a>
 </p>
