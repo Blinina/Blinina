@@ -5,7 +5,8 @@ In the past, I have managed and implemented social and business projects, but no
 
 ✨ I  have completed the front-end developer course at [**Hexlet**](https://github.com/Hexlet).
 
-✨ Open to work, remote or Moscow.
+✨ Open to work, remote or Moscow. I'm ready to relocate from Russia.
+
 
 ✨ [**My CV**](https://cv.hexlet.io/resumes/1304)
 
