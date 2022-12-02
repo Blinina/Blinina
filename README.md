@@ -8,7 +8,8 @@ In the past, I have managed and implemented social and business projects, but no
 ✨ Open to work, remote or Moscow. I'm ready to relocate from Russia.
 
 
-✨ [**My CV**](https://cv.hexlet.io/resumes/1304)
+✨  <a href="https://drive.google.com/file/d/15HXmXJdZQkvknSEDQAq4cXF71oMMc3WO/view?usp=sharing"  target="_blank" rel="noreferrer"><b>My CV</b></a>
+
 
 
 ### Languages and tools: ###
